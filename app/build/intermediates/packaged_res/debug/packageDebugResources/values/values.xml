@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ticket_categories">
+        <item>Điện</item>
+        <item>Nước</item>
+        <item>Internet / Wi-Fi</item>
+        <item>Nội thất / Thiết bị</item>
+        <item>An ninh</item>
+        <item>Khác</item>
+    </string-array>
+    <string-array name="ticket_priorities">
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
+        <item>Khẩn cấp</item>
+    </string-array>
+    <color name="accent">#00897B</color>
+    <color name="bg_main">#F5F7FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="danger">#D32F2F</color>
+    <color name="primary">#1976D2</color>
+    <color name="sensor_bg">#E8F5E9</color>
+    <color name="success">#2E7D32</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+    <color name="warning">#F57C00</color>
+    <style name="Theme.RentConnect" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+</resources>

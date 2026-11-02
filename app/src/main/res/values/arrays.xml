@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ticket_categories">
+        <item>Điện</item>
+        <item>Nước</item>
+        <item>Internet / Wi-Fi</item>
+        <item>Nội thất / Thiết bị</item>
+        <item>An ninh</item>
+        <item>Khác</item>
+    </string-array>
+
+    <string-array name="ticket_priorities">
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
+        <item>Khẩn cấp</item>
+    </string-array>
+</resources>
